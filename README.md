@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=yusufyilmazf&label=PROFILE+VIEWS)
+
+
+
 - 👋 Hi, I’m @yusufyilmazf
 
 - 🌱 I’m currently learning Golang and Python 
