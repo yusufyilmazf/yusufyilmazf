@@ -2,7 +2,7 @@
 
 
 
-### 👋 Hi, I’m @yusufyilmazf
+### 👋 Hi, I’m Yusuf YILMAZ
 
 - 🌱 I’m currently learning Golang and Python 
 
